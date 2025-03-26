@@ -29,3 +29,11 @@
 //     return true
 // }
 // alert(isEmpty(schedule))
+
+let list={
+    1:[
+        {1:dwa,
+        2:da}
+    ]
+}
+alert(list[1][0][1])
